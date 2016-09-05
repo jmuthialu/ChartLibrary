@@ -3,7 +3,7 @@
  
 Use this library to create donut charts. 
 These charts are clickable and the actions are delegated to any controller that confirms to ChartProtocol
-![Alt text](Screenshot/DemoChartScreenshot.png?raw=true "Title")
+![Alt text](Screenshot/DemoChartScreenshotHalf.png?raw=true "Title")
 
 **How to use this library**
 
